@@ -1,11 +1,3 @@
-/my-translation-app
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md       ← main documentation file
-└── /docs
-    └── api-docs.md  ← API observation (optional)
 Project Title:
 Bilingual Translation Web App
 
