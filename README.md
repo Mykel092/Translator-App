@@ -29,8 +29,7 @@ Response structure is clean and JSON-based, making it easy to parse and display 
 Instructor	Evaluates the project	Oversees the academic value and performance of the project
 
 4. Web Application URL:
-https://yourusername.github.io/translation-app
-
+https://mikeslanguagetranslator.netlify.app
 Replace with your actual GitHub Pages or hosting link.
 
 5. Importance of Comprehensive Documentation
